@@ -7,7 +7,7 @@ Rhinoceros 3D was chosen due to its ability to provide a seamless and continuous
 
 The templates are largely based on vanilla-GH, but a few plug-ins were also used: Crystallon; Weaverbird; Alpaca4D; Dendro; MeshEdit; Ngon.
 
-*The GH files are free to downoad after asking to become a member.*
+*The GH files are free to download after asking to become a member.*
 
 ## Templates
 1.	*Application of a Uniform LS in an Enclosed Volume:*
