@@ -74,7 +74,7 @@ This workflow employs FEA to analyze a cube under general stress. The brick elem
 11.	*Surface Conformal Ribs LS:*
 This workflow provides an adaptable strategy for generating ribs conformal to any surface. First, it’s necessary to find the curves on which build the ribs. These curves are then used to guide the construction of the voxel. The voxelization process itself can be conformable to the curve employing a graph mapper to manually distribuite the voxels. After, the voxels are populated with a LS, which is then thickened. It was necessary to edit one Crystallon’s component to function with n curves. Also, particular attention was given in how to link and merge the LS of the ribs with the LS of the skin: through a distance range it’s possible to morph the closest nodes of the ribs LS to the merge it with the skin.
 
-![image](https://github.com/ENEA-protolab/overview/assets/144337113/36c58462-e45f-4e55-ab45-3cbf18385b16) ![image](https://github.com/ENEA-protolab/overview/assets/144337113/9aca372c-3f7c-45e8-9fbf-737dd51537f2)
+![image](https://github.com/ENEA-protolab/summery/assets/144337113/ca5aa88f-1063-4434-9f2e-26cbc91cb402) ![image](https://github.com/ENEA-protolab/summery/assets/144337113/ccd4f548-02d6-4d48-ad55-ea215bf2a3a9)
 
 
 12.	*Stochastic LS:*
