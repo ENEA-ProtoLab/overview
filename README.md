@@ -38,7 +38,7 @@ This workflow involves offsetting a surface or mesh based on data values such as
 This workflow focuses on transitioning or morphing between two different LS unit cell configurations. The transition can occur in a type-by-type fashion, such as from beam to beam or shell to shell. The morphing values can be provided by an attractor point field or any general analysis scalar field. The advantages of this approach include achieving smooth transitions between different LS configurations, flexibility in creating LS with varied mechanical properties, and improved structural performance.
 In this case, the morphing is between a Body Centered and Body Centered Cubic configuration.
 
-![image](https://github.com/ENEA-protolab/overview/assets/144337113/668f8100-0bea-4804-b31f-58b250a54aec) ![image](https://github.com/ENEA-protolab/overview/assets/144337113/53ba5e29-01c1-4c17-bace-4cd08311915f)
+![image](https://github.com/ENEA-protolab/summery/assets/144337113/3800c78c-7ff3-4514-930b-0c134196a4bc) ![image](https://github.com/ENEA-protolab/summery/assets/144337113/653f6d2e-073f-4d00-8851-26698fc229fb)
 
 
 6.	*Transition (or Morphing) Strategy between Heterogenous LS Unit Cell Shell Configurations:*
