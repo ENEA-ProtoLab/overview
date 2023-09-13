@@ -7,7 +7,8 @@ Rhinoceros 3D was chosen due to its ability to provide a seamless and continuous
 
 The templates are largely based on vanilla-GH, but a few plug-ins were also used: Crystallon; Weaverbird; Alpaca4D; Dendro; MeshEdit; Ngon.
 
-*The GH files are free to download after asking to become a member.*
+
+&#x1F536;*The GH files are free to download after asking to become a member.*
 
 ## Templates
 1.	*Application of a Uniform LS in an Enclosed Volume:*
@@ -96,7 +97,7 @@ As a lot of cases have been addressed, it’s now possible to start refining the
 
 
 15.	*Beam LS Optimization with Multi-Goal Evolutionary Algorithm:*
-With beam, too, it’s possible to start refining the LS. Starting from values obtained by a previous VbFEA is possible to choose between the best configuration with the best structure. As Galapagos can only manage one goal, the Octopus’s plugin is implemented. In fact, with Octopus is possible to set one or multi-objective goals. So, to displacement goal, this time, it’s possible to add also a mass goal. By analysing different beam configurations using Octopus, the algorithm systematically determines which arrangement offers the most robust and stable structure with the least amount of displacement by minor mass. It's essential to note that as it explores various beam configurations with Octopus, a novel FEA needs to perform again for each configuration (by Alpaca4d). For this case, it’s possible to use a different kind of element to discretize the LS: each truss composing the LS can be represented by a “beam element” and run a more classic FEA.
+With beam, too, it’s possible to start refining the LS. Starting from values obtained by a previous FEA is possible to choose between the best configuration with the best structure. As Galapagos can only manage one goal, the Octopus’s plugin is implemented. In fact, with Octopus is possible to set one or multi-objective goals. So, to displacement goal, this time, it’s possible to add also a mass goal. By analysing different beam configurations using Octopus, the algorithm systematically determines which arrangement offers the most robust and stable structure with the least amount of displacement by minor mass. It's essential to note that as it explores various beam configurations with Octopus, a novel FEA needs to perform again for each configuration (by Alpaca4d). For this case, it’s possible to use a different kind of element to discretize the LS: each truss composing the LS can be represented by a “beam element” and another FEA.
 
 ![image](https://github.com/ENEA-protolab/overview/assets/144337113/aaa8db11-570c-403d-8d38-c0a2e0f484a8)
 
