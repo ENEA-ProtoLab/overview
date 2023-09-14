@@ -5,7 +5,7 @@ The activity focused on enhancing understanding of the tools and acquiring skill
 
 Rhinoceros 3D was chosen due to its ability to provide a seamless and continuous workflow, thanks to its wide range of open-source tools that facilitate transversal applications. This way enables a smooth process without any interruptions after the design phase, giving the opportunity to directly integrate Topology Optimization (TO) and Lattice Structures (LS) processes, eliminating the necessity of model redefinition or conversion. 
 
-The templates are largely based on vanilla-GH, but a few plug-ins were also used: [Crystallon](https://www.food4rhino.com/en/app/crystallon); [Weaverbird](https://www.giuliopiacentino.com/weaverbird/); [Alpaca4D](https://www.food4rhino.com/en/app/alpaca4d-openseesgh); [Dendro](https://www.food4rhino.com/en/app/dendro); [MeshEdit](https://www.food4rhino.com/en/app/meshedit); [Ngon](https://www.food4rhino.com/en/app/ngon); [Octopus](https://www.food4rhino.com/en/app/octopus).(https://www.food4rhino.com/en/app/octopus)).
+The templates are largely based on vanilla-GH, but a few plug-ins were also used: [Crystallon](https://www.food4rhino.com/en/app/crystallon); [Weaverbird](https://www.giuliopiacentino.com/weaverbird/); [Alpaca4D](https://www.food4rhino.com/en/app/alpaca4d-openseesgh); [Dendro](https://www.food4rhino.com/en/app/dendro); [MeshEdit](https://www.food4rhino.com/en/app/meshedit); [Ngon](https://www.food4rhino.com/en/app/ngon); [Octopus](https://www.food4rhino.com/en/app/octopus).
 
 
 &#x1F536;*The GH files are free to download after asking to become a member.*
