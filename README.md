@@ -112,7 +112,7 @@ Each tutorial can also be categorized according to which product characteristics
 *C.*	**Adaptive Performance**: these procedures take in consideration the necessity to adapt the LS within design constraints. By incorporating techniques that redefine the LS based on specific data values, explore different unit cell configurations, and conform to the design space provided, products can integrate LS with different characteristics within the geometry, offering improved structural integration and customization to meet specific performance criteria. Tutorials 3, 4, 5, 6, 13, 14.
 
 
-## Case study
+## Case studies
 In order to verify the feasibility of this collection of tutorials, they have been implemented in 5 case studies representing the Consumer Goods sector: for Music Instrument, a chin rest for violin; for Footwear, a high-heeled shoe; for packaging, a necklaces jewelry display; for Eyewear, a pair of sunglasses; for Sports Equipment, a riser for archery. For each of this case studies one or more tutorials according to its criteria and goals (classified as A, B or C, like stated before). As the tutorials provide a general template for each case it was necessary to tweak and customize the script in order to take account of the inputs, the chosen 3Dp technology and also any design constraints. But the general strategy was basically left untouched from the templates.
 
 
