@@ -1,5 +1,5 @@
 # Summary
-A collection of tutorials/templates developed as part of M4_Spoke3_Deliverable_D3.3.5_ECOSISTER (PNRR) research project on "Development of generative processing strategies for the breakdown of product characteristics and possible redesign and recovery actions". 
+A collection of tutorials/templates developed as part of ECOSISTER Project, Spoke3 WP3 “Life Cycle and Sustainability Assessment of materials, products and processes” Deliverable_D3.3.5_"Development of generative processing strategies for the breakdown of product characteristics and possible redesign and recovery actions". 
 
 The activity focused on enhancing understanding of the tools and acquiring skills through algorithm scripting using Computatational Design tools like Grasshopper and its plug-ins. These step-by-step tutorials were designed for specific courses, summer schools, or industrial training programs. These tools developed want to help in sharing knowledge and saving resources, hopefully driving economic growth. 
 
