@@ -144,3 +144,6 @@ In order to verify the feasibility of this collection of tutorials, they have be
 
 ![image](https://github.com/ENEA-ProtoLab/overview/assets/144337113/d9b9ed38-4b6d-4ec4-beba-a9ce741247a5)![image](https://github.com/ENEA-ProtoLab/overview/assets/144337113/f7ff6ce6-0d61-464b-9901-c02079727cfb)
 ![image](https://github.com/ENEA-ProtoLab/overview/assets/144337113/1697acd0-af5d-48d1-bab0-6a32f56c5618)
+
+![image](https://github.com/ENEA-ProtoLab/overview/assets/144337113/044383fb-7069-4069-bdde-556cbb16f4e0)
+
